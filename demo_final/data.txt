@@ -1,0 +1,1 @@
+{'batch_size': 256, 'eval_batch_size': 124, 'neg_rate': 0.01, 'emb_dim': 256, 'l1': True, 'margin': 261, 'learning_rate': 0.00996875, 'weight_decay': 0.01, 'epoch_num': 1}
